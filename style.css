@@ -1,0 +1,44 @@
+img{
+    width: 60px;
+    height: 100px;
+}
+nav{
+  
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    list-style: none;
+    display: flex;
+        
+
+}
+li{
+
+    padding-left: 12px;
+    padding-right: 200px;  /* padding creates space in the container */
+    font-size: 22px;
+    
+}
+.con-main{
+    margin: auto;
+    
+    width: 500px;
+
+}
+.display{
+    background-color: bisque;
+    height: 70px;
+    width: 100%;
+    
+}
+.buttons{
+    display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+
+
+}
+.btn{
+    height: 60px;
+}
+

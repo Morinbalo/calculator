@@ -27,9 +27,13 @@ li{
 
 }
 .display{
-    background-color: bisque;
+    background-color: black;
     height: 70px;
     width: 100%;
+    text-align: right;
+   line-height: 70px; /*increases length of line height: ;*/
+   font-size: 30px;
+   color: white;
     
 }
 .buttons{
